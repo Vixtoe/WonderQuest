@@ -10,7 +10,7 @@ WonderQuest was designed and prototyped as part of the **CN330 Computer Applicat
 
 ---
 
-## 🎨 Prototype & Demo
+## Prototype & Demo
 
 * **Interactive Figma Prototype:** [Click here to view live Figma prototype](https://www.figma.com/make/8CEWes2QYDGyEuBppXYGn8/AI-Story-Adventure-Prototype?t=c3paAW3aAkuIwCoc-1)
 
