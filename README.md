@@ -73,7 +73,7 @@ wonderquest/
 │   └── ui-overview.png              # UI screenshots and flow preview
 └── README.md)
 
-![WonderQuest UI Overview](docs/ui-overview.png)
+![WonderQuest UI Overview](AI Story Adventure Prototype – Figma Make.png)
 
 ### How to View
 1. Click the prototype link above to open the design in your web browser.
