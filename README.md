@@ -55,6 +55,6 @@ WonderQuest was designed and prototyped as part of the **CN330 Computer Applicat
 ```text
 wonderquest/
 ├── docs/
-│   ├── crazy8s-sketch-sheet.pdf     # Initial 8-panel rapid design sprint
-│   └── ui-overview.png              # UI screenshots and flow preview
+│   ├── crazy8s-sketch-sheet.pdf
+│   └── ui-overview.png
 └── README.md
