@@ -47,3 +47,7 @@ wonderquest/
 │   └── user-flow-architecture.png   # Screen transitions and state logic
 ├── src/                             # Prototype implementation files
 └── README.md
+
+## How to View the Prototype
+
+Click the [Figma Prototype Link](https://www.figma.com) above to interact with the screens directly in your browser.
