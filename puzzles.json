@@ -1,0 +1,266 @@
+[
+    {
+      "id": "p01",
+      "type": "number_sequence",
+      "goal": "Find the next number in the pattern: 2, 4, 6, 8, ?",
+      "correct_answer": "10",
+      "attempts": {
+        "correct": "10",
+        "incorrect": "9",
+        "partial": "It goes up by 2 each time, maybe 12?"
+      }
+    },
+    {
+      "id": "p02",
+      "type": "number_sequence",
+      "goal": "Find the next number in the pattern: 5, 10, 15, 20, ?",
+      "correct_answer": "25",
+      "attempts": {
+        "correct": "25",
+        "incorrect": "30",
+        "partial": "Count by fives: 20 then 24"
+      }
+    },
+    {
+      "id": "p03",
+      "type": "number_sequence",
+      "goal": "What number comes next? 3, 6, 9, 12, ?",
+      "correct_answer": "15",
+      "attempts": {
+        "correct": "15",
+        "incorrect": "14",
+        "partial": "Adding 3 each time, so 16"
+      }
+    },
+    {
+      "id": "p04",
+      "type": "number_sequence",
+      "goal": "Find the next number: 20, 18, 16, 14, ?",
+      "correct_answer": "12",
+      "attempts": {
+        "correct": "12",
+        "incorrect": "16",
+        "partial": "Going down by twos, is it 10?"
+      }
+    },
+    {
+      "id": "p05",
+      "type": "number_sequence",
+      "goal": "What comes next? 1, 2, 4, 8, ?",
+      "correct_answer": "16",
+      "attempts": {
+        "correct": "16",
+        "incorrect": "10",
+        "partial": "Doubling the number: 8 times 2 is 12"
+      }
+    },
+    {
+      "id": "p06",
+      "type": "number_sequence",
+      "goal": "Find the next number: 100, 90, 80, 70, ?",
+      "correct_answer": "60",
+      "attempts": {
+        "correct": "60",
+        "incorrect": "75",
+        "partial": "Subtracting 10 each step, maybe 50?"
+      }
+    },
+    {
+      "id": "p07",
+      "type": "number_sequence",
+      "goal": "What number completes the pattern? 1, 4, 7, 10, ?",
+      "correct_answer": "13",
+      "attempts": {
+        "correct": "13",
+        "incorrect": "11",
+        "partial": "Plus 3 each time, 12"
+      }
+    },
+    {
+      "id": "p08",
+      "type": "number_sequence",
+      "goal": "Find the next number: 10, 20, 40, 80, ?",
+      "correct_answer": "160",
+      "attempts": {
+        "correct": "160",
+        "incorrect": "90",
+        "partial": "Double 80 is 120"
+      }
+    },
+    {
+      "id": "p09",
+      "type": "number_sequence",
+      "goal": "What comes next in this pattern? 50, 45, 40, 35, ?",
+      "correct_answer": "30",
+      "attempts": {
+        "correct": "30",
+        "incorrect": "36",
+        "partial": "Minus 5 each time, 25"
+      }
+    },
+    {
+      "id": "p10",
+      "type": "number_sequence",
+      "goal": "Find the next number: 2, 5, 8, 11, ?",
+      "correct_answer": "14",
+      "attempts": {
+        "correct": "14",
+        "incorrect": "12",
+        "partial": "Add 3 each time: 13"
+      }
+    },
+    {
+      "id": "p11",
+      "type": "number_sequence",
+      "goal": "What number comes next? 1, 3, 6, 10, ?",
+      "correct_answer": "15",
+      "attempts": {
+        "correct": "15",
+        "incorrect": "13",
+        "partial": "It adds 2, then 3, then 4, so maybe 14?"
+      }
+    },
+    {
+      "id": "p12",
+      "type": "number_sequence",
+      "goal": "Find the next number: 4, 8, 12, 16, ?",
+      "correct_answer": "20",
+      "attempts": {
+        "correct": "20",
+        "incorrect": "18",
+        "partial": "Skip counting by 4, 24"
+      }
+    },
+    {
+      "id": "p13",
+      "type": "letter_pattern",
+      "goal": "Find the next letter in the pattern: A, C, E, G, ?",
+      "correct_answer": "I",
+      "attempts": {
+        "correct": "I",
+        "incorrect": "H",
+        "partial": "Skipping one letter each time, J"
+      }
+    },
+    {
+      "id": "p14",
+      "type": "letter_pattern",
+      "goal": "What letter comes next? B, D, F, H, ?",
+      "correct_answer": "J",
+      "attempts": {
+        "correct": "J",
+        "incorrect": "I",
+        "partial": "Every other letter starting at B, K"
+      }
+    },
+    {
+      "id": "p15",
+      "type": "letter_pattern",
+      "goal": "Complete the letter pattern: A, B, A, B, A, ?",
+      "correct_answer": "B",
+      "attempts": {
+        "correct": "B",
+        "incorrect": "C",
+        "partial": "It repeats A then B, so A"
+      }
+    },
+    {
+      "id": "p16",
+      "type": "letter_pattern",
+      "goal": "Find the next letter: M, N, O, P, ?",
+      "correct_answer": "Q",
+      "attempts": {
+        "correct": "Q",
+        "incorrect": "S",
+        "partial": "Alphabet order after P is R"
+      }
+    },
+    {
+      "id": "p17",
+      "type": "letter_pattern",
+      "goal": "What comes next in this pattern? X, Y, Z, X, Y, ?",
+      "correct_answer": "Z",
+      "attempts": {
+        "correct": "Z",
+        "incorrect": "A",
+        "partial": "X-Y-Z repeats, maybe X?"
+      }
+    },
+    {
+      "id": "p18",
+      "type": "letter_pattern",
+      "goal": "Find the next letter: A, D, G, J, ?",
+      "correct_answer": "M",
+      "attempts": {
+        "correct": "M",
+        "incorrect": "K",
+        "partial": "Skip two letters each time, L"
+      }
+    },
+    {
+      "id": "p19",
+      "type": "letter_pattern",
+      "goal": "What letter completes the pattern? C, F, I, L, ?",
+      "correct_answer": "O",
+      "attempts": {
+        "correct": "O",
+        "incorrect": "M",
+        "partial": "Jump ahead 3 letters from L, N"
+      }
+    },
+    {
+      "id": "p20",
+      "type": "letter_pattern",
+      "goal": "Find the next letter: Z, X, V, T, ?",
+      "correct_answer": "R",
+      "attempts": {
+        "correct": "R",
+        "incorrect": "U",
+        "partial": "Going backward skipping one letter, S"
+      }
+    },
+    {
+      "id": "p21",
+      "type": "letter_pattern",
+      "goal": "What comes next? P, Q, P, Q, P, ?",
+      "correct_answer": "Q",
+      "attempts": {
+        "correct": "Q",
+        "incorrect": "R",
+        "partial": "Alternating P and Q, P"
+      }
+    },
+    {
+      "id": "p22",
+      "type": "number_sequence",
+      "goal": "Find the next number: 6, 12, 18, 24, ?",
+      "correct_answer": "30",
+      "attempts": {
+        "correct": "30",
+        "incorrect": "26",
+        "partial": "Add 6 each time, 28"
+      }
+    },
+    {
+      "id": "p23",
+      "type": "number_sequence",
+      "goal": "What number comes next? 15, 12, 9, 6, ?",
+      "correct_answer": "3",
+      "attempts": {
+        "correct": "3",
+        "incorrect": "9",
+        "partial": "Subtract 3 each time, maybe 0?"
+      }
+    },
+    {
+      "id": "p24",
+      "type": "letter_pattern",
+      "goal": "Find the next letter: E, G, I, K, ?",
+      "correct_answer": "M",
+      "attempts": {
+        "correct": "M",
+        "incorrect": "L",
+        "partial": "Skip one letter from K, N"
+      }
+    }
+  ]
